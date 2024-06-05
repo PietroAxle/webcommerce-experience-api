@@ -1,16 +1,10 @@
-# webcommerce-experience-api
+# INTRODUZIONE AL PROGETTO
 
-*INTRODUZIONE AL PROGETTO*
+Il progetto *WEBCOMMERCE* è concepito in modo tale da poter simulare un progetto reale presso un cliente, così da avere un'esperienza lavorativa realistica in ambito Mulesoft.
 
-Il progetto *WEBCOMMERCE* è stato concepito in modo tale da poter disporre di materiale quanto più simile possibile ad un progetto reale presso un cliente, in modo tale da poter simulare un'esperienza lavorativa nell'ambito Mulesoft e renderla quanto più reale possibile.
-Nello specifico il progetto sarà costruito rispettando le Best Practice e le linee guida di Mulesoft, verrà condiviso con github ed inoltre vi saranno dimostrazioni pratiche di come vengono utilizzati gli operatori più comuni come l'object store, lo scope choice, o come vengono scritti i log utilizzando il JSON Formatter.
-In correlazione all'intero progetto ci sarà la documentazione tecnica che spiegherà il perchè vengono utilizzati determinati operatori, la scelta della naming-convention, la struttura del database e l'interazione tra i vari layer dell'intera applicazione.
+Il progetto è costruito rispettando le Best Practice e le linee guida di Mulesoft, verrà condiviso tramite repository github ed vi saranno dimostrazioni pratiche di si possono usare gli operatori più comuni come Object Store, Scope Choice o la scrittura di log usando JSON Formatter.
 
-Il progetto intero sarà solamente visionabile ai candidati che dovranno studiarlo.
-
-*WEBCOMMERCE-EXPERIENCE-API*
-
-Il seguente repository contiene il codice dell' Experience Api che si occuperà come suggerisce il nome dell'esperienza dell'utente finale, ovvero i suoi endpoint saranno l'interfaccia esposta dell'applicazione e verrà contattata direttamente dal front-end.
+# COME GESTIRE IL REPOSITORY - draft
 
 *COME CLONARE IN LOCALE IL CODICE SORGENTE:*
 
@@ -21,4 +15,15 @@ Il seguente repository contiene il codice dell' Experience Api che si occuperà 
  - Creare in loco una directory per ospitare il codice
  - Navigare dalla console git bash fino alla directory dedicata
  - Esegui il comando "git clone LINK-HTTPS"
- 
+
+
+
+## Draft
+> **Note:** spostare altrove le spiegazioni più funzionali
+
+In correlazione all'intero progetto ci sarà la documentazione tecnica che spiegherà il perchè vengono utilizzati determinati operatori, la scelta della naming-convention, la struttura del database e l'interazione tra i vari layer dell'intera applicazione.
+
+*WEBCOMMERCE-EXPERIENCE-API*
+
+Il seguente repository contiene il codice dell' Experience Api che si occuperà come suggerisce il nome dell'esperienza dell'utente finale, ovvero i suoi endpoint saranno l'interfaccia esposta dell'applicazione e verrà contattata direttamente dal front-end.
+
